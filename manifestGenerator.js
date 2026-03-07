@@ -1,0 +1,37 @@
+const fs = require("fs");
+const crypto = require("crypto");
+const path = require("path");
+
+const modsFolder = "./mods";
+const baseUrl = "https://tuservidor/mods"; // cambia esto
+
+function sha256(filePath) {
+    const fileBuffer = fs.readFileSync(filePath);
+    const hash = crypto.createHash("sha256");
+    hash.update(fileBuffer);
+    return hash.digest("hex");
+}
+
+const mods = fs.readdirSync(modsFolder)
+    .filter(f => f.endsWith(".jar"))
+    .map(file => {
+        const fullPath = path.join(modsFolder, file);
+
+        return {
+            name: file,
+            hash: sha256(fullPath),
+            url: `${baseUrl}/${file}`
+        };
+    });
+
+const manifest = {
+    version: Date.now().toString(),
+    mods: mods
+};
+
+fs.writeFileSync(
+    "manifest.json",
+    JSON.stringify(manifest, null, 2)
+);
+
+console.log("Manifest generado con", mods.length, "mods");
