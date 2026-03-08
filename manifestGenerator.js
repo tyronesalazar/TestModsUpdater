@@ -3,7 +3,7 @@ const crypto = require("crypto");
 const path = require("path");
 
 const modsFolder = "./mods";
-const baseUrl = "https://tuservidor/mods"; // cambia esto
+const baseUrl = "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods"; // cambia esto
 
 function sha256(filePath) {
     const fileBuffer = fs.readFileSync(filePath);
