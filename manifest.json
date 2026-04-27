@@ -1,5 +1,5 @@
 {
-  "version": "1777327547927",
+  "version": "1777333309213",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -47,6 +47,21 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/DungeonsArise-1.21.1-2.1.68-release.jar"
     },
     {
+      "name": "epic-knights-1.21.1-neoforge-10.12.jar",
+      "hash": "7e6c953234056e34e76fadeb534a1d86501e2e1ca5ede5f10247b12742614cf0",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/epic-knights-1.21.1-neoforge-10.12.jar"
+    },
+    {
+      "name": "fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+      "hash": "4c4c6445ba2db91477db50dd6b8226beafe48a3430fffa6e0731e0ac937073a5",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar"
+    },
+    {
+      "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
+    },
+    {
       "name": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
       "hash": "9362e2faacc6c864a91c5d0f452305fe7a496aa6c91131af63d021f1baa773a7",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
@@ -80,6 +95,11 @@
       "name": "mca-neoforge-7.7.7+1.21.1.jar",
       "hash": "82c1a4a79fe2752e487b63c6f0fa2c0957d2b4ed1fea80ba06eab4be7befd1b1",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/mca-neoforge-7.7.7+1.21.1.jar"
+    },
+    {
+      "name": "naturalist-1.0.1-neoforge-1.21.1.jar",
+      "hash": "069b911955cdceebc06fd3ac725a459a0877553f5debbd28148421462fe65ae5",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/naturalist-1.0.1-neoforge-1.21.1.jar"
     },
     {
       "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
