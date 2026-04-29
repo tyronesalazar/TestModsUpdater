@@ -1,5 +1,5 @@
 {
-  "version": "1777333309213",
+  "version": "1777423828847",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -95,6 +95,16 @@
       "name": "mca-neoforge-7.7.7+1.21.1.jar",
       "hash": "82c1a4a79fe2752e487b63c6f0fa2c0957d2b4ed1fea80ba06eab4be7befd1b1",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/mca-neoforge-7.7.7+1.21.1.jar"
+    },
+    {
+      "name": "MedievalCraft(Structures)-1.21.1-1.0.0.jar",
+      "hash": "55bfffa41cc8a90c1c2a7e374e180ef283043ab4deebb7b62efd6ed054e623ae",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MedievalCraft(Structures)-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
+      "hash": "4e4856691c39b89eccf6b749d958004939eec9287332f10983f9a2f1d429f052",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MedievalCraft(Weapons)-1.21.1-1.0.0.jar"
     },
     {
       "name": "naturalist-1.0.1-neoforge-1.21.1.jar",
