@@ -1,5 +1,5 @@
 {
-  "version": "1777423828847",
+  "version": "1777426126497",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -25,6 +25,11 @@
       "name": "cloth-config-15.0.140-neoforge.jar",
       "hash": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/cloth-config-15.0.140-neoforge.jar"
+    },
+    {
+      "name": "Continents_26.1_v1.1.13.jar",
+      "hash": "a9fccccfd3516181538290f1e8df4e47e794ed69c4f0b26aa7d72b46cf85eb7e",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/Continents_26.1_v1.1.13.jar"
     },
     {
       "name": "corpse-neoforge-1.21.1-1.1.13.jar",
@@ -150,6 +155,11 @@
       "name": "t_and_t-neoforge-fabric-1.13.7+1.21.1.jar",
       "hash": "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
+    },
+    {
+      "name": "weather2-neoforge-1.21.0-2.8.6.jar",
+      "hash": "759df24e88436dcdd93c610fd8455684f5f6d040b3b9370362952961b3186504",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/weather2-neoforge-1.21.0-2.8.6.jar"
     }
   ]
 }
