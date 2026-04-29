@@ -1,5 +1,5 @@
 {
-  "version": "1777493039559",
+  "version": "1777493390474",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -82,6 +82,11 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
     },
     {
+      "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+    },
+    {
       "name": "Jade-1.21.1-NeoForge-15.10.5.jar",
       "hash": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
@@ -115,6 +120,11 @@
       "name": "MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
       "hash": "4e4856691c39b89eccf6b749d958004939eec9287332f10983f9a2f1d429f052",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MedievalCraft(Weapons)-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "mowziesmobs-1.21.1-1.8.2.jar",
+      "hash": "b8e7e39fb6430326de7fbb193db56588ee8bd04d0054527924fe588f37131e4f",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/mowziesmobs-1.21.1-1.8.2.jar"
     },
     {
       "name": "naturalist-1.0.2-neoforge-1.21.1.jar",
