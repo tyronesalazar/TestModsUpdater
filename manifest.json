@@ -1,5 +1,5 @@
 {
-  "version": "1777426521011",
+  "version": "1777493039559",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -92,9 +92,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/jei-1.21.1-neoforge-19.27.0.336.jar"
     },
     {
-      "name": "journeymap-neoforge-1.21.1-6.0.0-beta.65.jar",
-      "hash": "9e4c83fcb84a84cbfbe4c693ae2d7eb9e15ad0049e56aefbdb5484b57f3869ac",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/journeymap-neoforge-1.21.1-6.0.0-beta.65.jar"
+      "name": "journeymap-neoforge-1.21.1-6.0.0-beta.66.jar",
+      "hash": "cbb076cf913962683a9b74b1865dddcc94f13c1a24916a19052f6dd504df4e4b",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/journeymap-neoforge-1.21.1-6.0.0-beta.66.jar"
     },
     {
       "name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
@@ -117,9 +117,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MedievalCraft(Weapons)-1.21.1-1.0.0.jar"
     },
     {
-      "name": "naturalist-1.0.1-neoforge-1.21.1.jar",
-      "hash": "069b911955cdceebc06fd3ac725a459a0877553f5debbd28148421462fe65ae5",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/naturalist-1.0.1-neoforge-1.21.1.jar"
+      "name": "naturalist-1.0.2-neoforge-1.21.1.jar",
+      "hash": "04616a9f136c7a8fd6f9f75e83be80af33bc54924b3ca16b0f33d19273c25e95",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/naturalist-1.0.2-neoforge-1.21.1.jar"
     },
     {
       "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
@@ -142,14 +142,14 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
     },
     {
-      "name": "sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
-      "hash": "099c7cd5f9e84b6cd2b48c0713ede39946f888849936cd924826e099cb064686",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar"
+      "name": "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+      "hash": "8817a7ce02fdddc8bbe4ca5be5bb63678efa22770c81d19984a1e4f3d1d48950",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar"
     },
     {
-      "name": "sophisticatedcore-1.21.1-1.4.29.1752.jar",
-      "hash": "7b49f95f18158c21c53b84ad138c0ab4fb48656942163c168b6c9afd80b8022d",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedcore-1.21.1-1.4.29.1752.jar"
+      "name": "sophisticatedcore-1.21.1-1.4.32.1794.jar",
+      "hash": "3f9b2a4803b4367881d0f88901245b5e41b8deef51a28063bef3860c512541a8",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedcore-1.21.1-1.4.32.1794.jar"
     },
     {
       "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
