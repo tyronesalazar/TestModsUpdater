@@ -1,5 +1,5 @@
 {
-  "version": "1777926953680",
+  "version": "1778349660227",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -67,6 +67,11 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/fantasy_armor-neoforge-1.2.4-1.21.1.jar"
     },
     {
+      "name": "fzzy_config-0.7.6+1.21+neoforge.jar",
+      "hash": "4e5cc1438087b0bc0276969e88b9ad0bdf2bcc60d6caf5fe79e18947d7a29050",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/fzzy_config-0.7.6+1.21+neoforge.jar"
+    },
+    {
       "name": "geckolib-neoforge-1.21.1-4.8.4.jar",
       "hash": "a1b6ce25e8627aa7e748672eedb6b71af68e0993462313649c259f38e42bcac9",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar"
@@ -80,6 +85,11 @@
       "name": "handcrafted-neoforge-1.21.1-4.0.3.jar",
       "hash": "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+    },
+    {
+      "name": "IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar",
+      "hash": "5adfdd0df0c5dbe81e4458da50442b58863f9db9f22abc182f81e487eef0e6db",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
     },
     {
       "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
@@ -107,6 +117,11 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
     },
     {
+      "name": "kotlinforforge-5.11.0-all.jar",
+      "hash": "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/kotlinforforge-5.11.0-all.jar"
+    },
+    {
       "name": "mca-neoforge-7.7.7+1.21.1.jar",
       "hash": "82c1a4a79fe2752e487b63c6f0fa2c0957d2b4ed1fea80ba06eab4be7befd1b1",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/mca-neoforge-7.7.7+1.21.1.jar"
@@ -120,6 +135,16 @@
       "name": "MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
       "hash": "4e4856691c39b89eccf6b749d958004939eec9287332f10983f9a2f1d429f052",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MedievalCraft(Weapons)-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "MoogsEndStructures-1.21-2.0.2.jar",
+      "hash": "9840922ffe6dc0c44f0c99588220b3cbabc94e9fc7d134ff18d8a0b4129f792d",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MoogsEndStructures-1.21-2.0.2.jar"
+    },
+    {
+      "name": "moogs_structures-neoforge-1.21.1-2.0.2.jar",
+      "hash": "b2a9168da6374cc04b64e3ad20c1d0b69c0a083198cce66bc9fca86643e3ae78",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/moogs_structures-neoforge-1.21.1-2.0.2.jar"
     },
     {
       "name": "mowziesmobs-1.21.1-1.8.2.jar",
@@ -137,6 +162,11 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
     },
     {
+      "name": "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar",
+      "hash": "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+    },
+    {
       "name": "resourcefullib-neoforge-1.21-3.0.12.jar",
       "hash": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar"
@@ -145,6 +175,21 @@
       "name": "sable-neoforge-1.21.1-1.2.2.jar",
       "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sable-neoforge-1.21.1-1.2.2.jar"
+    },
+    {
+      "name": "simplyswords-neoforge-1.63.0-1.21.1.jar",
+      "hash": "4619dcf1501fc82c1a52acd4c88a466436f5c1d7d2bccc0932912a12b0bc5198",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/simplyswords-neoforge-1.63.0-1.21.1.jar"
+    },
+    {
+      "name": "SimplyTooltips-neoforge-0.1.3.jar",
+      "hash": "ea21464cfd363efe2965cdf801b82b37ecda83e93051193f4830783ead723518",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/SimplyTooltips-neoforge-0.1.3.jar"
+    },
+    {
+      "name": "skinrestorer-2.7.0+1.21-neoforge.jar",
+      "hash": "b6497a57a05f531f399a29b8f7b3643294c7e81ae48e251406a7c2f4294734d0",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/skinrestorer-2.7.0+1.21-neoforge.jar"
     },
     {
       "name": "smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
@@ -167,6 +212,11 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedcore-1.21.1-1.4.33.1808.jar"
     },
     {
+      "name": "takesapillage-neoforge-1.0.10+mc1.21.1.jar",
+      "hash": "a86e4396e68e7c2ff22fd4ce9369e933139011c285097573ea76eeb914eef20d",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/takesapillage-neoforge-1.0.10+mc1.21.1.jar"
+    },
+    {
       "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "hash": "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
@@ -180,6 +230,11 @@
       "name": "weather2-neoforge-1.21.0-2.8.6.jar",
       "hash": "759df24e88436dcdd93c610fd8455684f5f6d040b3b9370362952961b3186504",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/weather2-neoforge-1.21.0-2.8.6.jar"
+    },
+    {
+      "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+      "hash": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
     }
   ]
 }
