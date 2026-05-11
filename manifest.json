@@ -1,5 +1,5 @@
 {
-  "version": "1778525469515",
+  "version": "1778533012300",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -55,6 +55,11 @@
       "name": "cristellib-neoforge-1.21.1-3.0.3.jar",
       "hash": "f5ada4fe5a4a8ba9f8800a54f9ae6fe5a7a4d1156ada6567d11d45e3c3b02239",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/cristellib-neoforge-1.21.1-3.0.3.jar"
+    },
+    {
+      "name": "drivebywire-0.2.8.jar",
+      "hash": "e83e20faaa8e15aae71a91329b1e594ba33b37039331c59d6e5d944adb4d6b45",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/drivebywire-0.2.8.jar"
     },
     {
       "name": "DungeonsArise-1.21.1-2.1.68-release.jar",
