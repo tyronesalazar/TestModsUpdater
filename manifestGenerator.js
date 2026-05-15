@@ -16,7 +16,8 @@ const mods = fs.readdirSync(modsFolder)
     .filter(f => f.endsWith(".jar"))
     .map(file => {
         const fullPath = path.join(modsFolder, file);
-
+        // replace spaces with %20 for URL encoding
+        file = file.replace(/ /g, "%20");
         return {
             name: file,
             hash: sha256(fullPath),

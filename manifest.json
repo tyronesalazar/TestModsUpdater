@@ -1,5 +1,5 @@
 {
-  "version": "1778873675249",
+  "version": "1778876397952",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -47,9 +47,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/corpse-neoforge-1.21.1-1.1.13.jar"
     },
     {
-      "name": "Create Encased-1.21.1-1.8-ht2.jar",
+      "name": "Create%20Encased-1.21.1-1.8-ht2.jar",
       "hash": "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/Create Encased-1.21.1-1.8-ht2.jar"
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/Create%20Encased-1.21.1-1.8-ht2.jar"
     },
     {
       "name": "create-1.21.1-6.0.10.jar",
