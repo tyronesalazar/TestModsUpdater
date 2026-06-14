@@ -1,5 +1,5 @@
 {
-  "version": "1780454803078",
+  "version": "1781473534601",
   "mods": [
     {
       "name": "Amplified_Nether_26.1_v1.2.14.jar",
@@ -62,11 +62,6 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
     },
     {
-      "name": "coroutil-neoforge-1.21.0-1.3.9.jar",
-      "hash": "097434e256a428335cc4e9b718ad7bb9c6804c2c775aa3dd7149a6904adca2bc",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/coroutil-neoforge-1.21.0-1.3.9.jar"
-    },
-    {
       "name": "corpse-neoforge-1.21.1-1.1.13.jar",
       "hash": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/corpse-neoforge-1.21.1-1.1.13.jar"
@@ -87,29 +82,29 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/create-1.21.1-6.0.10.jar"
     },
     {
-      "name": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
-      "hash": "5a8c6d168ec1b47ecee7f2e83a93accbca71544d2b14ca1ca1b1271855f26248",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+      "name": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "hash": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
     },
     {
-      "name": "createbigcannons-5.11.5+mc.1.21.1.jar",
-      "hash": "2c0576338ec400bef5ca373650e3e919eee602c002ce1b7b6eb0f69f3c67764a",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/createbigcannons-5.11.5+mc.1.21.1.jar"
+      "name": "createbigcannons-5.11.6+mc.1.21.1.jar",
+      "hash": "9345e8773aa8be0f33bbf633796124e70d84c0c299aac94d8d252086f8712ffe",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/createbigcannons-5.11.6+mc.1.21.1.jar"
     },
     {
-      "name": "createdieselgenerators-1.21.1-1.3.12.jar",
-      "hash": "becdacb4eabdee5846e9821fd6de50fd31698816151ce1e0ab23818136bcec73",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/createdieselgenerators-1.21.1-1.3.12.jar"
+      "name": "createdieselgenerators-1.21.1-1.3.13.jar",
+      "hash": "61b289b328a3eedcb8b68abff85289b107f9b3023b1eac76fd3ad6d3217c09f2",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/createdieselgenerators-1.21.1-1.3.13.jar"
     },
     {
-      "name": "create_connected-1.2.0-mc1.21.1.jar",
-      "hash": "4cd981c0ef9eaca586ff95e934937dc2834c9693ec58502501045efff262dd62",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/create_connected-1.2.0-mc1.21.1.jar"
+      "name": "create_connected-1.2.2-mc1.21.1.jar",
+      "hash": "081ca6ff6d9fbfcd97cf8b278ed4f8a67499d3f3238b9e681d8bf2dab0d358e4",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/create_connected-1.2.2-mc1.21.1.jar"
     },
     {
-      "name": "cristellib-neoforge-1.21.1-3.1.6.jar",
-      "hash": "856e5e62ec25fb1e8b86c83c38a56a128cae1ed4e2b4f2cf426c887b5ecff6a2",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/cristellib-neoforge-1.21.1-3.1.6.jar"
+      "name": "cristellib-neoforge-1.21.1-3.1.7.jar",
+      "hash": "11e05dbc97bd3fe1790bd6361747240e314c1dbf40b590ea20cc691dc8396c38",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/cristellib-neoforge-1.21.1-3.1.7.jar"
     },
     {
       "name": "curios-neoforge-9.5.1+1.21.1.jar",
@@ -117,14 +112,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/curios-neoforge-9.5.1+1.21.1.jar"
     },
     {
-      "name": "CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
-      "hash": "6c28d87b215fc1191488194188ec8a39dd908ae7d2d887b7c9d7d463be0a162c",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar"
-    },
-    {
-      "name": "deeperdarker-neoforge-1.21.1-1.4.jar",
-      "hash": "1ab9be467644c31fba6231089a44f8173ffda21aaa7e5360358ae1b03a5b55e2",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/deeperdarker-neoforge-1.21.1-1.4.jar"
+      "name": "deeperdarker-neoforge-1.21.1-1.4.1.jar",
+      "hash": "eee3f51222b0bcc714def002ff089ac9e131d3cae4575b542fd0a7dd101fe0af",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/deeperdarker-neoforge-1.21.1-1.4.1.jar"
     },
     {
       "name": "DnDesires-1.21.1-2.3a-BETA.jar",
@@ -137,9 +127,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/domum-ornamentum-1.0.231-main.jar"
     },
     {
-      "name": "drivebywire-0.2.9.jar",
-      "hash": "5f8eaa10a6d61aa7330ed997c4f812509c55f02f7213afbebde77c4af17c23c3",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/drivebywire-0.2.9.jar"
+      "name": "drivebywire-0.3.0.jar",
+      "hash": "256600adcd4c811dba480752d76048a053760038ff0a45b37d5d3a0164145f8f",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/drivebywire-0.3.0.jar"
     },
     {
       "name": "DungeonsArise-1.21.1-2.1.68-release.jar",
@@ -147,9 +137,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/DungeonsArise-1.21.1-2.1.68-release.jar"
     },
     {
-      "name": "enchdesc-neoforge-1.21.1-21.1.9.jar",
-      "hash": "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/enchdesc-neoforge-1.21.1-21.1.9.jar"
+      "name": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+      "hash": "9424c9aff4edf4d8730c931df4253138aeaee745ec839af7078d292bb4eeaa16",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/enchdesc-neoforge-1.21.1-21.1.10.jar"
     },
     {
       "name": "epic-knights-1.21.1-neoforge-10.12.jar",
@@ -192,11 +182,6 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
     },
     {
-      "name": "goblintraders-neoforge-1.21.1-1.11.2.jar",
-      "hash": "523aebc80baab377072fe26c5ff9d1c3649764f185131e7849acd99833d406dd",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/goblintraders-neoforge-1.21.1-1.11.2.jar"
-    },
-    {
       "name": "handcrafted-neoforge-1.21.1-4.0.3.jar",
       "hash": "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
@@ -207,9 +192,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/IllagerInvasion-v21.1.6-1.21.1-NeoForge.jar"
     },
     {
-      "name": "iris-neoforge-1.8.12+mc1.21.1.jar",
-      "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+      "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "hash": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
     },
     {
       "name": "Jade-1.21.1-NeoForge-15.10.5.jar",
@@ -222,14 +207,14 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/jei-1.21.1-neoforge-19.27.0.336.jar"
     },
     {
-      "name": "journeymap-neoforge-1.21.1-6.0.0-beta.81.jar",
-      "hash": "e8a258ac144ea43919e498d8cbfc6b3fb25c2e79f71326ffa285d2a88226257d",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/journeymap-neoforge-1.21.1-6.0.0-beta.81.jar"
+      "name": "journeymap-neoforge-1.21.1-6.0.0-beta.83.jar",
+      "hash": "cf9f633a4042273248f4f24c7b38c5bf83ebeac83d043599d999bf24167d7b56",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar"
     },
     {
-      "name": "jurassicrevived-neoforge-0.203.0+mc1.21.1.jar",
-      "hash": "fb7625f942c6cf745261f818e526e17d9d287b904924d9ad3d990e2a249da5f0",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/jurassicrevived-neoforge-0.203.0+mc1.21.1.jar"
+      "name": "jurassicrevived-neoforge-0.215.0+mc1.21.1.jar",
+      "hash": "1ad7baeb99328153af3fbdc484ee8f069c793e2e388232a52ecc807ed2a52b18",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/jurassicrevived-neoforge-0.215.0+mc1.21.1.jar"
     },
     {
       "name": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
@@ -250,6 +235,11 @@
       "name": "MedievalCraft(Weapons)-1.21.1-1.0.0.jar",
       "hash": "4e4856691c39b89eccf6b749d958004939eec9287332f10983f9a2f1d429f052",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/MedievalCraft(Weapons)-1.21.1-1.0.0.jar"
+    },
+    {
+      "name": "meteor_shower-0.0.4.jar",
+      "hash": "f8b4d06df9a55f3cd864e32b844ed06ddea37d250067d16aeee02c4262bece86",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/meteor_shower-0.0.4.jar"
     },
     {
       "name": "minecolonies-1.1.1319-1.21.1.jar",
@@ -282,6 +272,16 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/naturalist-1.0.2-neoforge-1.21.1.jar"
     },
     {
+      "name": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+      "hash": "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+    },
+    {
+      "name": "ohmymeteors-1.5.0+1.21+neo.jar",
+      "hash": "70d46665e74611e843cc61758cadc98b1f770ad2e8fc497b0dca1b00f0d51c4d",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/ohmymeteors-1.5.0+1.21+neo.jar"
+    },
+    {
       "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
       "hash": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
@@ -312,9 +312,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
     },
     {
-      "name": "sable-neoforge-1.21.1-1.2.2.jar",
-      "hash": "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sable-neoforge-1.21.1-1.2.2.jar"
+      "name": "sable-neoforge-1.21.1-2.0.1.jar",
+      "hash": "f0513d490dc099a7271b5e29b5040a1ff556219dee1007df3fe29355fd7ff68d",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sable-neoforge-1.21.1-2.0.1.jar"
     },
     {
       "name": "simplyswords-neoforge-1.63.0-1.21.1.jar",
@@ -327,29 +327,24 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/SimplyTooltips-neoforge-0.1.3.jar"
     },
     {
-      "name": "skinrestorer-2.7.0+1.21-neoforge.jar",
-      "hash": "b6497a57a05f531f399a29b8f7b3643294c7e81ae48e251406a7c2f4294734d0",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/skinrestorer-2.7.0+1.21-neoforge.jar"
-    },
-    {
       "name": "smallships-neoforge-1.21.1-2.0.0-b2.1.jar",
       "hash": "423d81eaeccf32088ed0b42a3a1c0976695fa5ab99c2b6b1d4c5706537fcbf62",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar"
     },
     {
-      "name": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "hash": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+      "name": "sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar",
+      "hash": "dc2838d5538db39414171fe86586ab89d1a30d2fd97f59229cc44cf3777f569d",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar"
     },
     {
-      "name": "sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
-      "hash": "84adb4282a18502c4c0db2aebd2bf38a47dc4dcc3f60c2fbfb83b8dcbe769ff6",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar"
+      "name": "sophisticatedbackpacks-1.21.1-3.25.62.1904.jar",
+      "hash": "f6460f02f11fe29bdb96cbdedf85e955a095ee9900591b6f93dae586709b1053",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedbackpacks-1.21.1-3.25.62.1904.jar"
     },
     {
-      "name": "sophisticatedcore-1.21.1-1.4.44.1923.jar",
-      "hash": "66ad9cb3e10d4b154b19ccbc3798351c7935e1a390db224eb0e56c7a8aa5c7f7",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedcore-1.21.1-1.4.44.1923.jar"
+      "name": "sophisticatedcore-1.21.1-1.4.56.2019.jar",
+      "hash": "a23a8fb312ad9b6c8c6415c3897ec0e2788a5f904acfdc63b1d1e1f4b1eca1a8",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/sophisticatedcore-1.21.1-1.4.56.2019.jar"
     },
     {
       "name": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
@@ -362,9 +357,9 @@
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/structurize-1.0.830-1.21.1.jar"
     },
     {
-      "name": "takesapillage-neoforge-1.0.10+mc1.21.1.jar",
-      "hash": "a86e4396e68e7c2ff22fd4ce9369e933139011c285097573ea76eeb914eef20d",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/takesapillage-neoforge-1.0.10+mc1.21.1.jar"
+      "name": "takesapillage-neoforge-1.0.12+mc1.21.1.jar",
+      "hash": "4b44199db0a965d6cdb420025544e18d35d81fa70ee75f564f3b705ff550cf98",
+      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/takesapillage-neoforge-1.0.12+mc1.21.1.jar"
     },
     {
       "name": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
@@ -385,31 +380,6 @@
       "name": "valarian_conquest-4.2.1.1-neoforge-1.21.1.jar",
       "hash": "dfef5e31c157dc48a09357ce9fd50e3567db3d11afcc4248416d51cdb19b6457",
       "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/valarian_conquest-4.2.1.1-neoforge-1.21.1.jar"
-    },
-    {
-      "name": "vampiricageing-1.21-1.4.21.jar",
-      "hash": "fe9600af9c5292d1a2e592e85a437be8184066a51b0e6f052409a6a979657cd2",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/vampiricageing-1.21-1.4.21.jar"
-    },
-    {
-      "name": "Vampirism-1.21-1.10.11.jar",
-      "hash": "263e9f3e24c8dffee427b8cbdeda9a6925fb340d713c79e08360819ef13fd37c",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/Vampirism-1.21-1.10.11.jar"
-    },
-    {
-      "name": "vampirism_integrations-1.21.1-1.10.0.jar",
-      "hash": "da2c04f132acbd419ffb1bfb8af3b37b5bd0d04718b26f982b5bd2432edc1ab4",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/vampirism_integrations-1.21.1-1.10.0.jar"
-    },
-    {
-      "name": "Werewolves-1.21-2.0.3.3.jar",
-      "hash": "ecbca2cd344e24ad48157834a8f321d1a7d2221c727fe8e61e4436d1219c6cfb",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/Werewolves-1.21-2.0.3.3.jar"
-    },
-    {
-      "name": "wood_you_dye-neoforge-1.21.1-2.1.0.jar",
-      "hash": "fd766d7ab303ee485b21619429c6338956a0ead04878ce5b27745602fadf952c",
-      "url": "https://media.githubusercontent.com/media/tyronesalazar/TestModsUpdater/refs/heads/main/mods/wood_you_dye-neoforge-1.21.1-2.1.0.jar"
     },
     {
       "name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
